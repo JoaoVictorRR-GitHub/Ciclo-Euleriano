@@ -6,7 +6,8 @@
 
 
 ### | $\textcolor{Yellow}{\text{RELATÓRIO:}}$
-<!-- > ![RELATÓRIO](Atividades/Relatorio%20Atividades%20DADM.pdf) -->
-> * Relatório do trabalho final.
+> ![RELATÓRIO](Relatorio%20Ciclo%20Euleriano.pdf)
+> ![INSTRUÇÕES](Instrucoes%20Trabalho%20Pratico.pdf)
+> * Relatório e instruções do trabalho final.
 
 ---
